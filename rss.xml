@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nosli ICT Direct]]></title>
         <description><![CDATA[Nosli ICT Direct]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nosli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 15:53:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 21:03:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nosli/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b651397-8f76-4268-9557-31174ddf7e48.jpg">]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c2bec9b55b131eb081293d0bd818f0af/croprotate.jpg?cropheight=3264&cropwidth=1836&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9b651397-8f76-4268-9557-31174ddf7e48.jpg&x=0&y=0" alt="" title="">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b651397-8f76-4268-9557-31174ddf7e48.jpg</link>
             <guid isPermaLink="false">75b9d876-c74e-4033-bc2d-bc4b45dcf313</guid>
-            <pubDate>Fri, 08 Jul 2016 15:52:46 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2016 21:03:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
